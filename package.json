@@ -1,0 +1,21 @@
+{
+  "name": "yrema-theme",
+  "displayName": "Yrema Theme",
+  "description": "A simple theme inspired by Tailwind website colors and with a mix of its own",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yrema Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yrema Theme-color-theme.json"
+      }
+    ]
+  }
+}
