@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/popsicle97/yrema-theme",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
